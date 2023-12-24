@@ -1,14 +1,1 @@
-# format command send
-
-```json
-{
-    "Command": {Command},
-    "Password": {Password},
-    "Move": {
-        "From": {PieceField},
-        "To": {PieceField}
-    },
-    "Field": {PieceField},
-    "Promotion": {PromotionPiece}
-}
-```
+คำอธิบาย code อยู่ใน Trichess-1.pdf ครับ
